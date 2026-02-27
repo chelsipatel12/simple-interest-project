@@ -1,15 +1,25 @@
 # Code of Conduct
 
 ## Our Pledge
-We pledge to make participation respectful and harassment-free.
+We as members, contributors, and leaders pledge to make participation in our community a harassment-free experience for everyone.
 
 ## Our Standards
-- Be respectful
-- Be inclusive
-- Accept feedback
+Examples of behavior that contributes to a positive environment include:
+- Being respectful and inclusive
+- Accepting constructive criticism
+- Focusing on what is best for the community
+
+## Enforcement Responsibilities
+Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior.
+
+## Scope
+This Code of Conduct applies within all community spaces and when an individual is representing the community.
 
 ## Enforcement
-Violations will be reviewed and appropriate actions taken.
+Instances of abusive behavior may be reported to the community leaders.
+
+## Enforcement Guidelines
+Community leaders will follow these guidelines in determining the consequences for any action they deem in violation of this Code of Conduct.
 
 ## Attribution
-Adapted from Contributor Covenant.
+This Code of Conduct is adapted from the Contributor Covenant.
