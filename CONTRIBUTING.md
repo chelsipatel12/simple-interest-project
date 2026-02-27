@@ -1,13 +1,11 @@
 # Contributing Guidelines
 
-We welcome contributions!
+Thank you for considering contributing to this project!
+
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
 
 ## How to Contribute
-- Report bugs
-- Suggest features
-- Improve documentation
-
-## Process
-1. Fork repository
-2. Create branch
-3. Submit pull request
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request
